@@ -4,4 +4,4 @@ def say(word, n):
     print("{} - {}".format(word, n))
 
 
-say("hello", 5)
+say("goodbye", 5)
