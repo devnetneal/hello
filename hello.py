@@ -1,5 +1,5 @@
 def say(word, n):
-    if n > 0:
+    if n > 1:
         say(word, n-1)
     print("{} - {}".format(word, n))
 
